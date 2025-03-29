@@ -1,5 +1,4 @@
 # Large Scale Data Processing: Project 2
-# Frequency Moments Report
 
 ## Question 1: Exact F2
 
